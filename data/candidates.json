@@ -1,0 +1,722 @@
+[
+  {
+    "id": "PROF_001",
+    "name": "Dr. Ameeta Mulla Wattal",
+    "linkedin_url": "https://www.linkedin.com/in/dr-ameeta-mulla-wattal",
+    "current_role": "Executive Director - Education, Innovations and Training",
+    "organization": "DLF Foundation Schools",
+    "location": "Gurugram, Haryana, India",
+    "experience_years": 36,
+    "persona_type": "Former Principal",
+    "ecosystem_indicators": [
+      "Former Principal Springdales School Pusa Road",
+      "National Teacher Awardee",
+      "Former Chairperson NPSC",
+      "CBSE Mentor and Trainer"
+    ],
+    "bio_summary": "Distinguished educational leader with over 3 decades of experience. Former chairperson of NPSC and principal of Springdales School. Specializes in school culture, institutional ethics, and teacher capacity building.",
+    "key_affiliations": ["Springdales School", "DLF Foundation", "NPSC", "NCERT"]
+  },
+  {
+    "id": "PROF_002",
+    "name": "Lt. Gen. Surendra Kulkarni",
+    "linkedin_url": "https://www.linkedin.com/in/surendra-kulkarni",
+    "current_role": "Director",
+    "organization": "Mayo College",
+    "location": "Ajmer, Rajasthan, India",
+    "experience_years": 12,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Boarding School Leadership",
+      "IPSC Executive Committee",
+      "Strategic Governance & Administration",
+      "Character Education & Holistic Development"
+    ],
+    "bio_summary": "Director of Mayo College Ajmer. Veteran leader driving academic excellence, institutional autonomy, and legacy school modernizations under the Indian Public Schools Conference.",
+    "key_affiliations": ["Mayo College", "IPSC", "Round Square"]
+  },
+  {
+    "id": "PROF_003",
+    "name": "Dr. Jagpreet Singh",
+    "linkedin_url": "https://www.linkedin.com/in/dr-jagpreet-singh",
+    "current_role": "Headmaster",
+    "organization": "The Doon School",
+    "location": "Dehradun, Uttarakhand, India",
+    "experience_years": 30,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "President IPSC",
+      "Former Headmaster Punjab Public School Nabha",
+      "Residential School Governance",
+      "K-12 Accreditation & Pastoral Care"
+    ],
+    "bio_summary": "Headmaster of The Doon School and current President of the Indian Public Schools Conference (IPSC). Authority on residential boarding management and pastoral care.",
+    "key_affiliations": ["The Doon School", "The PPS Nabha", "IPSC", "Headmasters' Conference"]
+  },
+  {
+    "id": "PROF_004",
+    "name": "Kavita Sanghvi",
+    "linkedin_url": "https://www.linkedin.com/in/kavitasanghvi",
+    "current_role": "Principal",
+    "organization": "Chatrabhuj Narsee Memorial School (CNMS)",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 21,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Global Teacher Prize Finalist",
+      "STEM Education Pioneer",
+      "TeachSDGs Ambassador",
+      "British Council School Ambassador"
+    ],
+    "bio_summary": "Prominent Mumbai school principal leading CNMS. Global speaker on STEM pedagogies, inquiry-based physics education, and climate action integration into K-12 curricula.",
+    "key_affiliations": ["CNMS Mumbai", "Varkey Foundation", "British Council"]
+  },
+  {
+    "id": "PROF_005",
+    "name": "Praveen Raju",
+    "linkedin_url": "https://www.linkedin.com/in/praveen-raju-suchitra",
+    "current_role": "Founder & Managing Director",
+    "organization": "Suchitra Academy",
+    "location": "Hyderabad, Telangana, India",
+    "experience_years": 16,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "FICCI ARISE National Committee",
+      "CBSE & Cambridge School Management",
+      "EdTech Early Adopter",
+      "School Infrastructure Planning"
+    ],
+    "bio_summary": "Founder of Suchitra Academy and core leader in FICCI ARISE. Works extensively on progressive pedagogy, K-12 campus safety guidelines, and national policy lobbying for private schools.",
+    "key_affiliations": ["Suchitra Academy", "FICCI ARISE", "Cambridge Pathways"]
+  },
+  {
+    "id": "PROF_006",
+    "name": "Seshuvalli Sadhu",
+    "linkedin_url": "https://www.linkedin.com/in/seshu-sadhu",
+    "current_role": "Director - Academic Operations",
+    "organization": "Chirec International School",
+    "location": "Hyderabad, Telangana, India",
+    "experience_years": 25,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "IB & Cambridge Curriculum Specialist",
+      "Multi-Campus School Leadership",
+      "Cognia Accreditation Reviewer",
+      "Faculty Recruitment & Retention"
+    ],
+    "bio_summary": "Directs academic operations and international curricula at Chirec International School. Veteran in implementing Cambridge IGCSE, IB DP, and dual-curriculum models across multiple branches.",
+    "key_affiliations": ["Chirec International", "Cognia", "IB World Schools"]
+  },
+  {
+    "id": "PROF_007",
+    "name": "Anirudh Gupta",
+    "linkedin_url": "https://www.linkedin.com/in/anirudh-gupta-dcm",
+    "current_role": "CEO & Group Director",
+    "organization": "DCM Group of Schools",
+    "location": "Ferozepur, Punjab, India",
+    "experience_years": 22,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "K-12 Chain Operator (7+ Campuses)",
+      "FICCI ARISE Core Working Committee",
+      "Digital Transformation in Tier-2/3 Schools",
+      "Edu-Leader Awardee"
+    ],
+    "bio_summary": "CEO of DCM Group of Schools, running established K-12 institutions across Punjab and North India. Recognized champion of bringing world-class educational technology to non-metro regions.",
+    "key_affiliations": ["DCM Group", "FICCI ARISE", "Punjab School Education Board Advisory"]
+  },
+  {
+    "id": "PROF_008",
+    "name": "Dr. Swati Popat Vats",
+    "linkedin_url": "https://www.linkedin.com/in/swatipopatvats",
+    "current_role": "President",
+    "organization": "Early Childhood Association (ECA) & Podar Education Network",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 32,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "President Early Childhood Association",
+      "Director Podar Jumbo Kids",
+      "NEP Foundational Stage Advisor",
+      "Preschool Franchise & Network Architect"
+    ],
+    "bio_summary": "Foremost early childhood education advocate and consultant in South Asia. President of ECA and APER, influencing foundational learning policy under NEP 2020 across 5,000+ member preschools.",
+    "key_affiliations": ["Podar Jumbo Kids", "Early Childhood Association (ECA)", "APER"]
+  },
+  {
+    "id": "PROF_009",
+    "name": "Shishir Jaipuria",
+    "linkedin_url": "https://www.linkedin.com/in/shishir-jaipuria",
+    "current_role": "Chairman",
+    "organization": "Seth Anandram Jaipuria Group of Educational Institutions",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "experience_years": 28,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "Former Chairman FICCI ARISE",
+      "K-12 Network Chain Owner (18+ Schools)",
+      "EdTech Integration Advocate",
+      "Policy Advisory to MoE"
+    ],
+    "bio_summary": "Chairman of Seth Anandram Jaipuria Group, managing premier K-12 campuses, partner schools, and preschool franchises. Former chairman of FICCI ARISE leading independent school advocacy.",
+    "key_affiliations": ["Jaipuria Group of Schools", "FICCI ARISE", "PHD Chamber of Commerce"]
+  },
+  {
+    "id": "PROF_010",
+    "name": "Nishi Misra",
+    "linkedin_url": "https://www.linkedin.com/in/nishi-misra",
+    "current_role": "Principal",
+    "organization": "Scindia Kanya Vidyalaya (SKV)",
+    "location": "Gwalior, Madhya Pradesh, India",
+    "experience_years": 27,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "All-Girls Residential School Leadership",
+      "IPSC Treasurer & Board Member",
+      "Community Outreach & Service Learning",
+      "Heritage Preservation in Education"
+    ],
+    "bio_summary": "Principal of Scindia Kanya Vidyalaya Gwalior. Prominent voice in girls' residential education, experiential service learning, and pastoral governance in legacy boarding networks.",
+    "key_affiliations": ["Scindia Kanya Vidyalaya", "IPSC", "Round Square"]
+  },
+  {
+    "id": "PROF_011",
+    "name": "Francis Joseph",
+    "linkedin_url": "https://www.linkedin.com/in/francisjoseph",
+    "current_role": "Executive Director & Founder",
+    "organization": "School Leaders Network (SLN Global)",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 26,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "Advisor to Maharashtra State Education Dept",
+      "School Operations & Auditing Consultant",
+      "Founder School Leaders Network",
+      "Affiliation & Compliance Strategist"
+    ],
+    "bio_summary": "Leading school management consultant, trusted advisor to municipal school boards and private school trusts. Manages peer learning networks connecting over 2,000 principals across India.",
+    "key_affiliations": ["SLN Global", "Maharashtra State Board Advisory", "Kaizen Educational Trust"]
+  },
+  {
+    "id": "PROF_012",
+    "name": "Sudha Acharya",
+    "linkedin_url": "https://www.linkedin.com/in/sudha-acharya",
+    "current_role": "Principal & National Chairperson",
+    "organization": "ITL Public School & NPSC",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 29,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Chairperson NPSC (National Progressive Schools Conference)",
+      "CBSE Master Trainer on NEP 2020",
+      "Inclusive Education Advocate",
+      "Adolescent Well-being & Mental Health in Schools"
+    ],
+    "bio_summary": "Chairperson of NPSC representing top private schools in Delhi NCR. Principal of ITL Public School Dwarka. Key CBSE resource person for competency-based assessment models.",
+    "key_affiliations": ["ITL Public School", "NPSC", "CBSE Assessment Cell"]
+  },
+  {
+    "id": "PROF_013",
+    "name": "Gaurav Saklani",
+    "linkedin_url": "https://www.linkedin.com/in/gaurav-saklani",
+    "current_role": "Partner & Senior K-12 Advisor",
+    "organization": "The Education Practice / Kaizenvest",
+    "location": "Bengaluru, Karnataka, India",
+    "experience_years": 19,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "K-12 M&A and Feasibility Advisor",
+      "Curriculum Transition Consultant (CBSE to IB)",
+      "Greenfield School Launch Specialist",
+      "Trustee Governance Structuring"
+    ],
+    "bio_summary": "Strategic education consultant advising PE funds, family offices, and school trustees on new greenfield school projects, brand licensing, and academic performance turnarounds.",
+    "key_affiliations": ["Kaizenvest", "Parthenon-EY Education Alum", "Consortium of International Schools"]
+  },
+  {
+    "id": "PROF_014",
+    "name": "Dr. Sunita Gandhi",
+    "linkedin_url": "https://www.linkedin.com/in/dr-sunita-gandhi",
+    "current_role": "Founder & Director",
+    "organization": "City Montessori School (CMS) & Global Classroom Private Limited",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "experience_years": 33,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "Guinness World Record School Group (CMS Lucknow)",
+      "Foundational Literacy & Numeracy (FLN) Innovator",
+      "Disruptive Literacy Movement",
+      "Global Education Policy Thinker"
+    ],
+    "bio_summary": "Director at CMS Lucknow (world's largest school by pupils) and founder of Global Classroom. Leading innovator in speed-learning, FLN diagnostics, and moral leadership in schooling.",
+    "key_affiliations": ["City Montessori School", "Council for Global Education", "World Bank Education Consultant Alum"]
+  },
+  {
+    "id": "PROF_015",
+    "name": "Lt. Col. A. Sekhar",
+    "linkedin_url": "https://www.linkedin.com/in/sekhar-educator",
+    "current_role": "Chief Mentor & Educational Strategist",
+    "organization": "Alpha Group of Institutions / Ex-Principal Atul Vidyalaya",
+    "location": "Chennai, Tamil Nadu, India",
+    "experience_years": 25,
+    "persona_type": "Former Principal",
+    "ecosystem_indicators": [
+      "Former Principal Atul Vidyalaya & Hyderabad Public School",
+      "CBSE Board Accreditation Assessor",
+      "Teacher Training on NEP Pedagogy",
+      "Whole School Transformation Coach"
+    ],
+    "bio_summary": "Former army officer turned visionary school leader and mentor. Guided multiple premier schools across Gujarat, Telangana, and Tamil Nadu as headmaster, principal, and governance mentor.",
+    "key_affiliations": ["Hyderabad Public School", "Atul Vidyalaya", "CBSE Training Unit"]
+  },
+  {
+    "id": "PROF_016",
+    "name": "Nooraine Fazal",
+    "linkedin_url": "https://www.linkedin.com/in/nooraine-fazal",
+    "current_role": "Founding CEO & Managing Trustee",
+    "organization": "Inventure Academy",
+    "location": "Bengaluru, Karnataka, India",
+    "experience_years": 20,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "FICCI ARISE South Zone Lead",
+      "Co-founder Progressive K-12 Academy",
+      "Round Square Member School Trustee",
+      "Advocate for Child Safety & School Governance"
+    ],
+    "bio_summary": "Co-founder and Managing Trustee of Inventure Academy Bangalore. Outspoken industry leader on child safety protocols, education deregulation, and pupil agency in K-12 schooling.",
+    "key_affiliations": ["Inventure Academy", "FICCI ARISE", "Round Square", "TAISI"]
+  },
+  {
+    "id": "PROF_017",
+    "name": "Dr. Madhav Deo Saraswat",
+    "linkedin_url": "https://www.linkedin.com/in/dr-madhav-deo-saraswat",
+    "current_role": "CEO",
+    "organization": "Hyderabad Public School Society",
+    "location": "Hyderabad, Telangana, India",
+    "experience_years": 31,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Former Principal The Scindia School Fort Gwalior",
+      "Past Headmaster Doon School Alum & Master",
+      "Historic Institution Turnaround",
+      "Boarding School Heritage Architecture"
+    ],
+    "bio_summary": "Former principal of The Scindia School Gwalior, currently heading the historic Hyderabad Public School Society (Begumpet & Ramanthapur). Renowned for institutional culture revival.",
+    "key_affiliations": ["Hyderabad Public School", "The Scindia School", "Doon School", "IPSC"]
+  },
+  {
+    "id": "PROF_018",
+    "name": "Vipul Redey",
+    "linkedin_url": "https://www.linkedin.com/in/vipulredey",
+    "current_role": "Head of School Enablement",
+    "organization": "Khan Academy India",
+    "location": "Bengaluru, Karnataka, India",
+    "experience_years": 18,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "Public-Private School Partnership Lead",
+      "State Govt School Digital Programs",
+      "Teacher Technology Integration Specialist",
+      "Stanford GSE Alum"
+    ],
+    "bio_summary": "Heads school partnerships for Khan Academy in India, driving mastery-based digital learning integration across thousands of government and affordable private schools.",
+    "key_affiliations": ["Khan Academy", "Cisco Education", "Delhi Govt Schools Project"]
+  },
+  {
+    "id": "PROF_019",
+    "name": "Meenakshi Uberoi",
+    "linkedin_url": "https://www.linkedin.com/in/meenakshi-uberoi",
+    "current_role": "Founder & Executive Director",
+    "organization": "De Pedagogics",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 23,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "Microsoft Innovative Educator Fellow",
+      "K-12 School Curriculum Designer",
+      "Teacher Professional Development Lead",
+      "EdTech Pedagogical Integration"
+    ],
+    "bio_summary": "Founder of De Pedagogics. Works directly with principals, academic coordinators, and school chains across India to modernize classroom teaching, assessment literacy, and tech integration.",
+    "key_affiliations": ["De Pedagogics", "Microsoft in Education", "Intel Teach Program"]
+  },
+  {
+    "id": "PROF_020",
+    "name": "Ashok Pandey",
+    "linkedin_url": "https://www.linkedin.com/in/ashokpandeyedu",
+    "current_role": "Director",
+    "organization": "Ahlcon Group of Schools",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 35,
+    "persona_type": "Former Principal",
+    "ecosystem_indicators": [
+      "Former Chairman NPSC",
+      "National Teachers Award by President of India",
+      "Global Educational Influencer on SDGs",
+      "Author & Thought Leader in K-12"
+    ],
+    "bio_summary": "Former chairman of NPSC and Director of Ahlcon Group of Schools. Recognized internationally for embedding the UN Sustainable Development Goals (SDGs) into national school curricula.",
+    "key_affiliations": ["Ahlcon International School", "NPSC", "TeachSDGs", "Global Peace Foundation"]
+  },
+  {
+    "id": "PROF_021",
+    "name": "Dr. Neeta Bali",
+    "linkedin_url": "https://www.linkedin.com/in/dr-neeta-bali",
+    "current_role": "Director - Schools",
+    "organization": "Symbiosis International Schools / Ex-Director GD Goenka World School",
+    "location": "Pune, Maharashtra, India",
+    "experience_years": 34,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "IB World School Head",
+      "Former Principal Apeejay School",
+      "International Baccalaureate Educator Network (IBEN)",
+      "Cross-Cultural School Leadership"
+    ],
+    "bio_summary": "Seasoned head of international schools who has led GD Goenka World School, Kasiga School Dehradun, and now Symbiosis International School. Active IB workshop leader and school evaluator.",
+    "key_affiliations": ["Symbiosis International School", "GD Goenka World School", "IBEN", "Kasiga School"]
+  },
+  {
+    "id": "PROF_022",
+    "name": "Rohit Pathak",
+    "linkedin_url": "https://www.linkedin.com/in/rohit-pathak-education",
+    "current_role": "Senior Vice President - K-12 Institutional Business",
+    "organization": "Lead School",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 17,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "Affordable Private School (APS) Segment Lead",
+      "School Network Expansion (3,000+ Schools)",
+      "Curriculum as a Service (CaaS) Architect",
+      "School Owner Relationship Management"
+    ],
+    "bio_summary": "Oversees institutional partnerships and school transformation suites at LEAD, engaging with thousands of tier-2, tier-3 school owners and trustees across India.",
+    "key_affiliations": ["LEAD School", "Pearson Education Alum", "APS Welfare Association"]
+  },
+  {
+    "id": "PROF_023",
+    "name": "Gowri Ishwaran",
+    "linkedin_url": "https://www.linkedin.com/in/gowri-ishwaran",
+    "current_role": "Founder Principal & Trustee",
+    "organization": "Sanskriti School & The Shiv Nadar Foundation",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 40,
+    "persona_type": "Former Principal",
+    "ecosystem_indicators": [
+      "Padma Shri Awardee in Education",
+      "Founding Principal Sanskriti School Chanakyapuri",
+      "Senior Advisory Board Shiv Nadar Schools",
+      "K-12 Policy Strategist"
+    ],
+    "bio_summary": "Padma Shri recipient and founding principal of Sanskriti School New Delhi. Influential trustee and senior advisor to top institutional foundations, shaping school culture across India.",
+    "key_affiliations": ["Sanskriti School", "Shiv Nadar Foundation", "Civil Services Society", "The Global Education Leadership Foundation"]
+  },
+  {
+    "id": "PROF_024",
+    "name": "Kallolini Hazarat",
+    "linkedin_url": "https://www.linkedin.com/in/kallolini-hazarat",
+    "current_role": "President",
+    "organization": "The New Era School & Indian Montessori Centre",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 30,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Progressive Pedagogy Advocate",
+      "Trustee of Multi-generational Schools",
+      "Early Childhood & Primary Educator",
+      "Heritage School Governance"
+    ],
+    "bio_summary": "President and managing trustee of historic institutions in Mumbai, driving continuous pedagogical modernization while upholding institutional ethos and child-centric values.",
+    "key_affiliations": ["The New Era School", "Indian Montessori Centre", "FICCI ARISE Maharashtra"]
+  },
+  {
+    "id": "PROF_025",
+    "name": "Binit Bina",
+    "linkedin_url": "https://www.linkedin.com/in/binit-bina-ed",
+    "current_role": "Chief Academic Officer",
+    "organization": "Vibgyor Group of Schools",
+    "location": "Bengaluru, Karnataka, India",
+    "experience_years": 22,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Multi-City K-12 Network Leadership (35+ Campuses)",
+      "CBSE & CISCE Curriculum Harmonization",
+      "Quality Assurance & Standardized Assessments",
+      "Teacher Mentorship Cohorts"
+    ],
+    "bio_summary": "Heads academics and curriculum delivery across the Vibgyor Group's pan-India network of 35+ schools, specializing in standardized pedagogical quality and board results.",
+    "key_affiliations": ["Vibgyor Group of Schools", "CISCE Principals Association", "CBSE Affiliated Schools Council"]
+  },
+  {
+    "id": "PROF_026",
+    "name": "Fatima Agarkar",
+    "linkedin_url": "https://www.linkedin.com/in/fatima-agarkar",
+    "current_role": "Founder",
+    "organization": "Agarkar Centre of Excellence (ACE)",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 22,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "Co-founder J3 Eduskill / Ex-JGI Schools",
+      "Sports in Education Advocate",
+      "School Startup Consultant & Turnaround Specialist",
+      "ECA Advisory Board Member"
+    ],
+    "bio_summary": "Leading educational consultant and entrepreneur who has set up over 40 preschools and K-12 campuses across India. Prominent advocate for sports and special education inclusion.",
+    "key_affiliations": ["ACE", "Early Childhood Association", "JGI Schools Alum"]
+  },
+  {
+    "id": "PROF_027",
+    "name": "Dr. Bindu Sharma",
+    "linkedin_url": "https://www.linkedin.com/in/dr-bindu-sharma",
+    "current_role": "Director - Academics",
+    "organization": "Billabong High International Schools",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 26,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Lighthouse Learning K-12 Academic Head",
+      "Inquiry-Based Learning Frameworks",
+      "Neuroscience in Education Specialist",
+      "ICSE & IGCSE Dual Curriculum"
+    ],
+    "bio_summary": "Director of Academics at Lighthouse Learning leading Billabong High International Schools. Expert in incorporating neuro-pedagogy, student well-being, and multidisciplinary design thinking in schools.",
+    "key_affiliations": ["Billabong High", "Lighthouse Learning", "Cambridge International"]
+  },
+  {
+    "id": "PROF_028",
+    "name": "Sunir Nagi",
+    "linkedin_url": "https://www.linkedin.com/in/sunir-nagi",
+    "current_role": "Principal & Director",
+    "organization": "The Olive School & Sahodaya Schools Complex",
+    "location": "Pune, Maharashtra, India",
+    "experience_years": 19,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "President Pune Sahodaya Schools Complex",
+      "CBSE Capacity Building Master Trainer",
+      "School Safety & Legal Compliance Advisor",
+      "Design Thinking Educator"
+    ],
+    "bio_summary": "President of the Pune Sahodaya Complex representing more than 150 CBSE schools. Extensive experience conducting CBSE capacity building programmes for principals and senior faculty.",
+    "key_affiliations": ["Pune Sahodaya Complex", "CBSE Training Department", "The Olive School"]
+  },
+  {
+    "id": "PROF_029",
+    "name": "Rohan Parikh",
+    "linkedin_url": "https://www.linkedin.com/in/rohan-parikh-green-acres",
+    "current_role": "Managing Director",
+    "organization": "The Green Acres Academy & The Acres Foundation",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 14,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "Progressive K-12 School Network Founder",
+      "Teacher Training Institute Founder",
+      "Curriculum Design & School Architecture",
+      "Wharton Alum in School Leadership"
+    ],
+    "bio_summary": "Founder of The Green Acres Academy and The Acres Foundation. Innovates in urban school design, research-backed curriculum design, and in-house teacher training pipelines.",
+    "key_affiliations": ["The Green Acres Academy", "The Acres Foundation", "Wharton Business School"]
+  },
+  {
+    "id": "PROF_030",
+    "name": "Dr. Manjula Pooja Shroff",
+    "linkedin_url": "https://www.linkedin.com/in/manjulapoojashroff",
+    "current_role": "MD & CEO",
+    "organization": "Kalorex Group of Schools",
+    "location": "Ahmedabad, Gujarat, India",
+    "experience_years": 29,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "Founder Delhi Public School Bopal & Kalorex",
+      "K-12 Chain with 50+ Institutions",
+      "Special Needs & Inclusive Schooling Founder (Prerna)",
+      "FICCI & CII Western Region Edu-Committee"
+    ],
+    "bio_summary": "Pioneering education entrepreneur heading Kalorex Group, running DPS branches, Calorx Public Schools, and specialized centers for children with learning disabilities.",
+    "key_affiliations": ["Kalorex Group", "DPS Bopal", "CII Western Region Education", "Prerna Special School"]
+  },
+  {
+    "id": "PROF_031",
+    "name": "Rajesh Malhotra",
+    "linkedin_url": "https://www.linkedin.com/in/rajesh-malhotra-educonsult",
+    "current_role": "Principal Consultant",
+    "organization": "EduHorizon Advisory",
+    "location": "Chandigarh, India",
+    "experience_years": 24,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "School Affiliation & State NOC Specialist",
+      "CBSE Bye-laws and Regulatory Advisor",
+      "Teacher Staffing & HR Structuring for Schools",
+      "Former DPS Vice Principal"
+    ],
+    "bio_summary": "Consultant helping trusts and educational societies navigate CBSE/CISCE affiliations, state education department compliances, and campus leadership hiring.",
+    "key_affiliations": ["EduHorizon Advisory", "CBSE Affiliated Schools Forum North", "DPS Society Alum"]
+  },
+  {
+    "id": "PROF_032",
+    "name": "Dr. Vinnie Jauhari",
+    "linkedin_url": "https://www.linkedin.com/in/vinniejauhari",
+    "current_role": "Director - Education Advocacy & Skilling",
+    "organization": "Microsoft India",
+    "location": "Gurugram, Haryana, India",
+    "experience_years": 25,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "K-12 AI & Digital Skilling Policy Lead",
+      "CBSE & AICTE Digital Curriculum Collaborator",
+      "School Leadership Mentorship",
+      "Author on Education Technology Governance"
+    ],
+    "bio_summary": "Leads education initiatives and institutional partnerships at Microsoft India, working closely with CBSE, NCERT, and school leaders on AI in schools and coding curriculum rollouts.",
+    "key_affiliations": ["Microsoft India", "CBSE AI Curriculum Taskforce", "UNESCO MGIEP Advisory"]
+  },
+  {
+    "id": "PROF_033",
+    "name": "Lt. Col. Kailash Bansal",
+    "linkedin_url": "https://www.linkedin.com/in/kailash-bansal",
+    "current_role": "Director - Institutional Development",
+    "organization": "AICTE / Educational Advisory Board",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 28,
+    "persona_type": "Education Consultant",
+    "ecosystem_indicators": [
+      "National Skill Development in Schools",
+      "Vocational Education Integration (NEP 2020)",
+      "Regulatory Approvals & Governance Frameworks",
+      "Atal Tinkering Labs Advisor"
+    ],
+    "bio_summary": "Expert in institutional development, vocational skilling pathways, and government school modernization projects aligned with the National Education Policy.",
+    "key_affiliations": ["AICTE", "NITI Aayog Atal Innovation Mission", "Ministry of Education Taskforces"]
+  },
+  {
+    "id": "PROF_034",
+    "name": "Anju Wal",
+    "linkedin_url": "https://www.linkedin.com/in/anju-wal",
+    "current_role": "Director - Principal",
+    "organization": "Shiv Nadar School",
+    "location": "Faridabad, Haryana, India",
+    "experience_years": 32,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Former Principal The Lawrence School Sanawar",
+      "Boarding and Day School Leadership",
+      "IB & CBSE Curriculum Leadership",
+      "Social-Emotional Learning (SEL) Pioneer"
+    ],
+    "bio_summary": "Distinguished leader who served as Head of The Lawrence School Sanawar and currently directs Shiv Nadar School Faridabad. Champion of values-led education and educator wellness.",
+    "key_affiliations": ["Shiv Nadar School", "The Lawrence School Sanawar", "NPSC", "Round Square"]
+  },
+  {
+    "id": "PROF_035",
+    "name": "Shubadra Shenoy",
+    "linkedin_url": "https://www.linkedin.com/in/shubadra-shenoy",
+    "current_role": "Trustee & Academic Director",
+    "organization": "National Public School (NPS) Group",
+    "location": "Bengaluru, Karnataka, India",
+    "experience_years": 27,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "NPS Network Academic Governance",
+      "High Academic Achievement Benchmarks",
+      "Curriculum Standardisation Specialist",
+      "Faculty Induction & Quality Control"
+    ],
+    "bio_summary": "Leads academic governance and faculty standards across multiple branches of the iconic National Public School (NPS) system, renowned for STEM and academic rigor.",
+    "key_affiliations": ["National Public School (NPS)", "Bangalore Sahodaya", "Karnataka ICSE/CBSE Schools Association"]
+  },
+  {
+    "id": "PROF_036",
+    "name": "Vandana Lulla",
+    "linkedin_url": "https://www.linkedin.com/in/dr-vandana-lulla",
+    "current_role": "Director & Principal",
+    "organization": "Podar International School (IB & Cambridge)",
+    "location": "Mumbai, Maharashtra, India",
+    "experience_years": 25,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "IB Continuous Professional Development Lead",
+      "Apple Distinguished Educator",
+      "International Curriculum Pioneer in India",
+      "Tech-Enabled Learning Architect"
+    ],
+    "bio_summary": "Pioneered the International Baccalaureate and Cambridge curricula at Podar International School Mumbai. Apple Distinguished Educator advocating one-to-one tablet learning in schools.",
+    "key_affiliations": ["Podar International School", "IB Asia Pacific", "Cambridge International Education"]
+  },
+  {
+    "id": "PROF_037",
+    "name": "Harish Sanduja",
+    "linkedin_url": "https://www.linkedin.com/in/harish-sanduja",
+    "current_role": "Academic Director & Former Principal",
+    "organization": "Birla Open Minds International / Ex-Principal SAI International",
+    "location": "Bhubaneswar / Hyderabad, India",
+    "experience_years": 26,
+    "persona_type": "Former Principal",
+    "ecosystem_indicators": [
+      "Former Principal SAI International School",
+      "Pan-India School Chain Academic Direction",
+      "CBSE Competency Master Assessor",
+      "Math & Science Pedagogy Innovator"
+    ],
+    "bio_summary": "Former principal of SAI International School (consistently ranked top day-cum-boarding school). Currently guides academic strategies and franchisee quality for Birla Open Minds.",
+    "key_affiliations": ["SAI International School", "Birla Open Minds", "CBSE East Zone Chapter"]
+  },
+  {
+    "id": "PROF_038",
+    "name": "Amol Arora",
+    "linkedin_url": "https://www.linkedin.com/in/amolarora",
+    "current_role": "Managing Director",
+    "organization": "SHEMROCK & SHEMFORD Group of Schools",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 20,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "K-12 & Preschool Chain with 650+ Branches",
+      "Franchise Model Pioneer in Indian Schooling",
+      "EdTech & Interactive Smart School Innovator",
+      "Prominent Speaker at Education World / ScooNews"
+    ],
+    "bio_summary": "Managing Director of Shemrock Preschools and Shemford Futuristic K-12 Schools. Recognized pioneer of institutional franchise models and child-friendly school design in India.",
+    "key_affiliations": ["SHEMROCK", "SHEMFORD", "Early Childhood Association", "Indian Franchise Association"]
+  },
+  {
+    "id": "PROF_039",
+    "name": "Charu Wahi",
+    "linkedin_url": "https://www.linkedin.com/in/charuwahi",
+    "current_role": "Principal",
+    "organization": "The Nirmal Bhartia School (NiBS)",
+    "location": "New Delhi, Delhi, India",
+    "experience_years": 22,
+    "persona_type": "School Director",
+    "ecosystem_indicators": [
+      "Collaborative Learning Environment Architect",
+      "Progressive Child-Centric Pedagogy",
+      "Teacher Mentorship & Well-being",
+      "Alternative Assessment Methodologies"
+    ],
+    "bio_summary": "Principal at NiBS New Delhi. Renowned for championing collaborative, holistic education models that move away from rote learning toward reflection, community, and pupil voice.",
+    "key_affiliations": ["The Nirmal Bhartia School", "NPSC", "Educators for Social Responsibility"]
+  },
+  {
+    "id": "PROF_040",
+    "name": "Siddharth Rajgarhia",
+    "linkedin_url": "https://www.linkedin.com/in/siddharth-rajgarhia",
+    "current_role": "Chief Learner & Director",
+    "organization": "Delhi Public School Varanasi, Nashik & Lava Nagpur",
+    "location": "Varanasi, Uttar Pradesh, India",
+    "experience_years": 16,
+    "persona_type": "Education Entrepreneur",
+    "ecosystem_indicators": [
+      "Multi-Campus DPS Franchise Leader",
+      "K-12 Design Thinking Practitioner",
+      "Future-Ready Skill Labs in Schools",
+      "FICCI ARISE Active Member"
+    ],
+    "bio_summary": "Director of top-ranking DPS campuses across Varanasi, Nashik, and Nagpur. Drives modern maker spaces, design thinking, and inquiry-led teaching across non-metro student communities.",
+    "key_affiliations": ["DPS Society", "DPS Varanasi", "FICCI ARISE", "Cambridge International"]
+  }
+]
